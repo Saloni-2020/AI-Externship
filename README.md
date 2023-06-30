@@ -10,3 +10,8 @@ Google Drive link to Assignments Link to Assignments
 
 [Assignment 1 - ](https://drive.google.com/drive/folders/1jHoXwbumjS6ACOuNkXisGzP1ngNEc4IZ?usp=sharing)https://drive.google.com/drive/folders/1jHoXwbumjS6ACOuNkXisGzP1ngNEc4IZ?usp=sharing
 
+
+
+Link to the Project Google Colab notebook
+
+https://colab.research.google.com/drive/12ymmm04V59NmwxEHdgST9ABprXPTT-R2?usp=sharing#scrollTo=t-M93jQgDkGv
